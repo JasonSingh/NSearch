@@ -3,3 +3,10 @@
 ################################################################################
 
 /NameSearchUnitTests/bin/Debug
+/NameSearchUnitTests/obj/Debug
+/NameSearchUnitTests/Old
+/.vs/NameSearch/v15/Server/sqlite3
+/NameSearch/bin/Debug
+/NameSearch/obj/Debug
+/packages/MSTest.TestFramework.1.2.0
+/packages/MSTest.TestAdapter.1.2.0
